@@ -1,0 +1,23 @@
+
+        #register_form{
+            display:none;
+        }
+        #login_form{
+            display:block;
+        }
+        .btn{
+            border: none;
+            background-color: transparent;
+            text-decoration: underline;
+            color: blue;
+        }
+        .div{
+            display: flex;
+        }
+
+        .submit{
+            margin-top: 20px;
+            display: block;
+        }
+       
+ 
